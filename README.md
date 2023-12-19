@@ -22,6 +22,7 @@
 💡Data Analyst Consultant
 - Conducted in-depth SEO analysis for an education platform, leveraging Google's API to web scrape competitors' top 20 pages for relevant keywords.
 - Developed and implemented a custom Machine Learning model to predict the impact of website modifications on Google ranking
+  
 👨‍💻 Data Scientist Consultant
 - Spearheaded Feature Engineering initiatives for risk prediction in the real estate sector, optimizing the screening process for potential clients.
 - Enhanced precision in risk assessment by expanding custom Python features with Pandas, specifically tailored for HR screening use cases.
