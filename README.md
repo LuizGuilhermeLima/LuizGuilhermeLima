@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Luiz Lima</h1>
-<h3 align="center">a passionate Data Analyst/Data Scientist with interest in uncovering meaningful insights from raw data. My journey in the world of data is driven by a curiosity to solve real-world problems using the power of analytics.</h3>
+<h3 align="center">a passionate Data Analyst/Data Scientist with an interest in uncovering meaningful insights from raw data. My journey in the world of data is driven by a curiosity to solve real-world problems using the power of analytics.</h3>
+
 
 ## 🚀 Quick Overview
 
 📊 Data Analyst and Storyteller
+
 💡 Transforming raw data into compelling narratives, passionate about leveraging data to drive informed decision-making
+
 🌐 Experienced in visualizations with Matplotlib, Seaborn, Tableau and PowerBI
+
 🎓 Continuous learner deepening my understanding of data principles
+
 🤝 Open to collaborations and discussions on all things data
+
  📧 Reach out at luiz.lima@torontomu.ca |  https://www.linkedin.com/in/luizg-lima/
+ 
 
 ## 💼 Professional Experience
 
